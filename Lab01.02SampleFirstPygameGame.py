@@ -1,6 +1,12 @@
 # Tower Defense Lab
-# February 12th 2025
+version =  "February 12th 2025"
 author = "Ibrahim Taha"
+
+# view my flint sessions here:
+# https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/a78216cd-da43-44c0-8b4a-9f7235235e87
+# https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/868a8eeb-79c5-45a6-9cd5-6777d5575873
+# https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/c627152f-9f56-43ea-b45f-08a299dbf89f
+
 
 import pygame
 import random
